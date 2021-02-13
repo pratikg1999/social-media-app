@@ -1,0 +1,24 @@
+.sidenav {
+  /* width: 130px; */
+  position: sticky;
+  z-index: 1;
+  top: 50px;
+  right: 10px;
+  background: #eeeeeeb6;
+  border-radius: 15px;
+  overflow-x: hidden;
+  max-height: 90vh;
+  padding: 8px;
+}
+
+.users {
+  display: flex;
+  align-items: center;
+  padding: 7px 10px;
+}
+
+.userImgNameWrapper {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}

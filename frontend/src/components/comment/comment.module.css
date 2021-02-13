@@ -1,0 +1,25 @@
+.title {
+  font-size: small;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.subtitle {
+  font-size: x-small;
+  color: darkgrey;
+}
+.commentBody {
+  margin-top: 3px;
+  font-size: small;
+}
+
+.bodyArea {
+  background-color: whitesmoke;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.avatarArea {
+  padding: 5px;
+}
